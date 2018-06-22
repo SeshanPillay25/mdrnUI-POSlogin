@@ -1,0 +1,25 @@
+c:\users\seshan\documents\visual studio 2015\Projects\POS\POS\bin\Debug\POS.exe.config
+c:\users\seshan\documents\visual studio 2015\Projects\POS\POS\bin\Debug\POS.exe
+c:\users\seshan\documents\visual studio 2015\Projects\POS\POS\bin\Debug\POS.pdb
+c:\users\seshan\documents\visual studio 2015\Projects\POS\POS\obj\Debug\POS.Form1.resources
+c:\users\seshan\documents\visual studio 2015\Projects\POS\POS\obj\Debug\POS.Properties.Resources.resources
+c:\users\seshan\documents\visual studio 2015\Projects\POS\POS\obj\Debug\POS.csproj.GenerateResource.Cache
+c:\users\seshan\documents\visual studio 2015\Projects\POS\POS\obj\Debug\POS.exe
+c:\users\seshan\documents\visual studio 2015\Projects\POS\POS\obj\Debug\POS.pdb
+C:\Users\Seshan\documents\visual studio 2015\Projects\POS\POS\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Seshan\documents\visual studio 2015\Projects\POS\POS\obj\Debug\POS.Form2.resources
+C:\Users\Seshan\documents\visual studio 2015\Projects\POS\POS\obj\Debug\POS.HomeControl.resources
+C:\Users\Seshan\documents\visual studio 2015\Projects\POS\POS\obj\Debug\POS.csprojResolveAssemblyReference.cache
+C:\Users\Seshan\documents\visual studio 2015\Projects\POS\POS\obj\Debug\POS.Other.resources
+C:\Users\Seshan\Desktop\GitHub projects\POS\POS\bin\Debug\POS.exe.config
+C:\Users\Seshan\Desktop\GitHub projects\POS\POS\obj\Debug\POS.exe
+C:\Users\Seshan\Desktop\GitHub projects\POS\POS\obj\Debug\POS.pdb
+C:\Users\Seshan\Desktop\GitHub projects\POS\POS\bin\Debug\POS.exe
+C:\Users\Seshan\Desktop\GitHub projects\POS\POS\bin\Debug\POS.pdb
+C:\Users\Seshan\Desktop\GitHub projects\POS\POS\obj\Debug\POS.csprojResolveAssemblyReference.cache
+C:\Users\Seshan\Desktop\GitHub projects\POS\POS\obj\Debug\POS.Form1.resources
+C:\Users\Seshan\Desktop\GitHub projects\POS\POS\obj\Debug\POS.Form2.resources
+C:\Users\Seshan\Desktop\GitHub projects\POS\POS\obj\Debug\POS.HomeControl.resources
+C:\Users\Seshan\Desktop\GitHub projects\POS\POS\obj\Debug\POS.Other.resources
+C:\Users\Seshan\Desktop\GitHub projects\POS\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\Seshan\Desktop\GitHub projects\POS\POS\obj\Debug\POS.csproj.GenerateResource.Cache
