@@ -6,4 +6,6 @@ https://bunifuframework.com/
 U: admin
 P: admin
 
-![alt text](pos1.png "Description goes here")
+![POS1](/img/pos1.png "POS1")
+
+![POS2](/img/pos2.png "POS2")
