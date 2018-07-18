@@ -8,4 +8,4 @@ P: admin
 
 ![POS1](/img/pos1.png "POS1")
 
-![POS2](/img/pos2.png "POS2")
+
